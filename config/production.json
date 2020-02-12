@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "mike pike linkme",
+  "mongoUri": "mongodb+srv://mikepike:8888888Mike@cluster0-ipcrm.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}

@@ -1,0 +1,36 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.btn {
+    margin-right: 10px;
+}
+
+.card {
+    background: #90caf92b;
+}
+
+.invalid {
+    color: #ff483f;
+    font-size: 12px;
+}
+
+.input-field:first-child {
+    margin-bottom: 50px;
+}
+
+.nav-wrapper {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.original-link {
+    width: 800px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
